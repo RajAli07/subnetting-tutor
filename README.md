@@ -93,9 +93,10 @@ JSON
     Bash
 
     ```
-    git clone [https://github.com/yourusername/subnetting-tutor.git](https://github.com/yourusername/subnetting-tutor.git)
-    cd subnetting-tutor
     
+   git clone [https://github.com/RajAli07/subnetting-tutor.git](https://github.com/RajAli07/subnetting-tutor.git)
+   cd subnetting-tutor
+       
     ```
 
 2. **Initialize Virtual Environment:**

@@ -129,6 +129,17 @@ JSON
 
     The application will boot up on `http://127.0.0.1:5000`.
 
+5. **Live on this site :**
+
+    Bash
+
+    ```
+   https://subnettingtutor.vercel.app/    
+
+    ```
+
+   
+
 ## 👨‍💻 Developer
 
   **raaZ© ❤️**
